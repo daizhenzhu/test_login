@@ -9,3 +9,4 @@ class Test_Allure:
 
     def test_allure3(self):
         assert 1
+
