@@ -11,5 +11,8 @@ class Test_Allure:
         assert 1
 
     def test_allure4(self):
-        assert 1
+        assert 0
+
+    def test_allure5(self):
+        assert 0
 
